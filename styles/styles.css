@@ -354,24 +354,24 @@ input[type='number'] {
   margin-bottom: 30px;
 }
 
-.city-adventages-item {
+.city-advantages-item {
   box-sizing: border-box;
   padding: 80px 85px;
 }
 
-.city-adventages-item img {
+.city-advantages-item img {
   margin: 0 auto;
 }
 
-.city-adventages-item:first-child img {
+.city-advantages-item:first-child img {
   margin-bottom: 32px;
 }
 
-.city-adventages-item:nth-child(2) img {
+.city-advantages-item:nth-child(2) img {
   margin-bottom: 34px;
 }
 
-.city-adventages-item:nth-child(3) img {
+.city-advantages-item:nth-child(3) img {
   margin-bottom: 28px;
 }
 
